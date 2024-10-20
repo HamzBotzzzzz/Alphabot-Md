@@ -28,7 +28,7 @@ global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
@@ -54,18 +54,18 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
+global.botname = "ZxynnBoTz" //namabot kalian
+global.ownername = "Ilhammm" //nama kalian
+global.myweb = "https://s.id/" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/@hamz999" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Makassar' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62887435047326"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6288214989352'] //premium user
+global.owner = ["6288214989352", "62887435047326"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = owner[0] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
@@ -73,8 +73,8 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© ' + botname //sticker wm ubah
-global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
+global.packname = '© ZxynnBoTz ' + botname //sticker wm ubah
+global.author = 'Ilhamm ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
 //type menu for menu
